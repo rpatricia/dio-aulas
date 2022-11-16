@@ -2,7 +2,7 @@
 
 <hr>
 
-![preview](./image/img-readme.png)
+![preview](./image/readme.png)
 
 <!-- <div align='center'>
 <img src="./image/img-readme.png" width="auto">
