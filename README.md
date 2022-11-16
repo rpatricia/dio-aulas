@@ -1,4 +1,8 @@
 # NTT DATA - Trilha Front-end
 
-![preview](./image/readme.png)
+<hr>
+
+<div align='center'>
+<img src="./image/readme.png">
+</div>
 
