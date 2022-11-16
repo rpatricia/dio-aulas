@@ -2,4 +2,6 @@
  <p>:books:Trilha de front-end.</p> 
 
 
-![preview](image/readme.png)
+![preview][def]
+
+[def]: image/readme.png
