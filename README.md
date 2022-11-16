@@ -1,7 +1,4 @@
-# NTT DATA Diversidade em Tech
- <p>:books:Trilha de front-end.</p> 
+# NTT DATA - Trilha Front-end
 
+![preview](./image/readme.png)
 
-![preview][def]
-
-[def]: image/readme.png
